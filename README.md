@@ -18,5 +18,5 @@ To inspect inter-router traffic without impacting network latency, the sensor wa
 ## Tech Stack & Tools
 
 * **IDS & OS:** Suricata, Ubuntu Linux
-* **Network Emulation:** GNS3, Cisco IOU (L2/L3)
+* **Network Emulation:** GNS3
 * **Offensive Security & Testing:** Kali Linux (Nmap, Hydra, hping3, snmpwalk)
